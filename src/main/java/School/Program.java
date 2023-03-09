@@ -51,7 +51,6 @@ public class Program {
         for (Student student: students) {
             System.out.println("\n---------------------");
             StudentInfo(student);
-
         }
     }
     public static void StudentInfo(Student student){
