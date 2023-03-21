@@ -10,7 +10,7 @@ public class Program {
         Figure triangle = new Triangle(5,3,3);
         Figure square = new Square(6);
         Figure circle = new Circle(100);
-        Figure rectangle = new Rectangle(1,20);
+        Figure rectangle = new Rectangle(2,20);
 
 
         figuresCollection.addFigure(triangle);
